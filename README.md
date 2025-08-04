@@ -1,3 +1,6 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://password-strength-calculator-mrjqumbebhctbwv5yx2njm.streamlit.app/)
+
+
 # 💪 Password Strength Calculator (ML-Based)
 
 This is a machine learning–powered password strength analyzer that evaluates your password as **Weak**, **Medium**, or **Strong** — with a rugged UI, live suggestions, and a real-time generator.
